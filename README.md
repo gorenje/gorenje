@@ -8,4 +8,4 @@ And creator of the first *visualisation* of Node-RED flows outside of Node-RED -
 
 I have a thing for visual coding ;)
 
-[Blog](https://blog.openmindmap.org)
+[My experiences/learnings/ideas with/of/for Node-RED and visual coding](https://blog.openmindmap.org).
